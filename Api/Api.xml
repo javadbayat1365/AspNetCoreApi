@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api</name>
+    </assembly>
+    <members>
+        <member name="M:Api.Controllers.v1.UserController.Token(Api.Models.TokenRequest,System.Threading.CancellationToken)">
+            <summary>
+            This Method Generate Jwt Token
+            </summary>
+            <param name="token">Information Of Token Request</param>
+            <param name="cancelationToken"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
